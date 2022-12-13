@@ -3,6 +3,7 @@ title: "Lesson: Shortcodes"
 date: 2022-12-12T10:25:04+07:00
 draft: true
 author: "Hendo"
+section: ["Shortcodes"]
 ---
 
 {{< youtube 2xkNJL4gJ9E >}}
